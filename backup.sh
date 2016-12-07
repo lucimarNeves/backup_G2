@@ -1,6 +1,6 @@
 #!/bin/bash
 #Lucimar Neves 
-
+#Exercicio de backup de origem, backup de destino e backup local por ssh, e ip do usuário.
 
 clear
 Menu(){
